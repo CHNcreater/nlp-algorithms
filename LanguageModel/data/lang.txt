@@ -1,0 +1,17 @@
+Python is a popular programming language.
+I love to code in Python.
+Data science is a hot topic in the tech industry.
+Machine learning and deep learning are important parts of data science.
+I am learning how to build nerual networks.
+Neural networks are modeled after the structure of the human brain.
+Artificial intelligence has many applications in various industries.
+Natural language processing is a branch of AI that deals with language understanding.
+Language models have shown impressive capabilities in the past few years by generating diverse and compelling text from human input prompts.
+There are many applications such as writing stories where you want creativity, pieces of informative text which should be truthful, or code snippets that we want to be executable.
+Writing a loss function to capture these attributes seems intractable and most language models are still trained with a simple next token prediction loss.
+Wouldn't it be great if we use human feedback for generated text as a measure of performance or go even one step further and use that feedback as a loss to optimize the model.
+Reinforcement learning from Human Feedback is a challenging concept because it involves a multiple-model training process and different stages of deployment.
+As a starting point RLHF use a language model that has already been pretrained with the classical pretraining objectives.
+DeepMind has documented using up to their 280 billion parameter model Gopher.
+This initial model can also be fine-tuned on additional text or conditions.
+These are both sources of what we refer to as expensive data.
